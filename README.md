@@ -8,4 +8,6 @@
 ### Transcribed:
  - Ruben Horvat
 ### PDF:
- - [Tenor Trombone](https://github.com/BaruTheGhost/gone_with_the_wind_trombone_transcription/blob/master/pdf/Gone_With_the_Wind.pdf)
+ - [Tenor Trombone](https://nbviewer.jupyter.org/github/barutheghost/gone_with_the_wind_trombone_transcription/blob/master/pdf/gone_with_the_wind.pdf)
+### MP3:
+ - [Audio File](https://nbviewer.jupyter.org/github/barutheghost/gone_with_the_wind_trombone_transcription/blob/master/mp3/gone_with_the_wind.mp3)
